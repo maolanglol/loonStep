@@ -1,0 +1,8 @@
+E:\vs2012Project\懒人程序\懒人程序\bin\Debug\懒人程序.exe.config
+E:\vs2012Project\懒人程序\懒人程序\bin\Debug\懒人程序.exe
+E:\vs2012Project\懒人程序\懒人程序\bin\Debug\懒人程序.pdb
+E:\vs2012Project\懒人程序\懒人程序\obj\Debug\懒人程序.Form1.resources
+E:\vs2012Project\懒人程序\懒人程序\obj\Debug\懒人程序.Properties.Resources.resources
+E:\vs2012Project\懒人程序\懒人程序\obj\Debug\懒人程序.csproj.GenerateResource.Cache
+E:\vs2012Project\懒人程序\懒人程序\obj\Debug\懒人程序.exe
+E:\vs2012Project\懒人程序\懒人程序\obj\Debug\懒人程序.pdb
